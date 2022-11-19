@@ -20,7 +20,7 @@ namespace matritsa_burish
                     matrix[i,j] = Convert.ToInt32(Console.ReadLine());
                 }
             }
-
+            Console.WriteLine("\n");
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < n; j++)
@@ -29,6 +29,9 @@ namespace matritsa_burish
                 }
                 Console.WriteLine("\n");
             }
+
+            Console.WriteLine("Siz matritsani necha gradusga burmoqchisiz!\n1 --> 180 gradus, 2 --> 90 gradus");
+            
         }
     }
 }
