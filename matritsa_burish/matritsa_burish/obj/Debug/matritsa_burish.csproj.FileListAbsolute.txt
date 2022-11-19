@@ -1,0 +1,8 @@
+D:\MyC#\matritsani burish\matritsa_burish\matritsa_burish\bin\Debug\matritsa_burish.exe.config
+D:\MyC#\matritsani burish\matritsa_burish\matritsa_burish\bin\Debug\matritsa_burish.exe
+D:\MyC#\matritsani burish\matritsa_burish\matritsa_burish\bin\Debug\matritsa_burish.pdb
+D:\MyC#\matritsani burish\matritsa_burish\matritsa_burish\obj\Debug\matritsa_burish.csproj.AssemblyReference.cache
+D:\MyC#\matritsani burish\matritsa_burish\matritsa_burish\obj\Debug\matritsa_burish.csproj.SuggestedBindingRedirects.cache
+D:\MyC#\matritsani burish\matritsa_burish\matritsa_burish\obj\Debug\matritsa_burish.csproj.CoreCompileInputs.cache
+D:\MyC#\matritsani burish\matritsa_burish\matritsa_burish\obj\Debug\matritsa_burish.exe
+D:\MyC#\matritsani burish\matritsa_burish\matritsa_burish\obj\Debug\matritsa_burish.pdb
